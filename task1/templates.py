@@ -1,6 +1,6 @@
 # templates.py
 def get_html_template(title, content):
-    css_style = "body { font-family: sans-serif; max-width: 800px; margin: 2em auto; } nav { background: #333; padding: 1em; } nav a { color: white; padding: 1em; } footer { text-align: center; margin-top: 2em; }"
+    css_style = "body { font-family: times new roman; max-width: 600px; margin: 2em auto; } nav { background: #333; padding: 1em; } nav a { color: blue; padding: 1em; } footer { text-align: center; margin-top: 2em; }"
     nav_bar = """
     <nav>
         <a href="./index.html">Home</a>
